@@ -13,4 +13,4 @@ https://nwithee.github.io/run-buddy/?name=&email=&phone=
 ## Contribution
 Made with ❤️ by [Nevin Withee]
 
-# Run Buddy Incorporated.
+# Run Buddy Inc.
