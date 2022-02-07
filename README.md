@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services
@@ -13,4 +13,3 @@ https://nwithee.github.io/run-buddy/?name=&email=&phone=
 ## Contribution
 Made with ❤️ by [Nevin Withee]
 
-# Run Buddy Inc.
